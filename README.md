@@ -130,6 +130,9 @@ See [ACKNOWLEDGMENTS.md](ACKNOWLEDGMENTS.md). Special thanks to **xg-gh-25 (Swar
 | **[session-cost](https://github.com/gategrow/session-cost)** | L0→L3 layered cost tracking |
 | **[dual-pool-review](https://github.com/gategrow/dual-pool-review)** | Named-persona adversarial review methodology |
 
+**Related — same philosophy, different concern:**
+- [imprint](https://github.com/YuhaoLin2005/imprint) — identity persistence protocol. gategrow asks "am I doing good work?" Imprint asks "who am I?"
+
 ## License
 
 MIT
